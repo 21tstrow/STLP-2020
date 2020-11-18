@@ -1,0 +1,11 @@
+Ray Parker, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+Job#3   3/26/2020  Steven Jobs   $10.14
+
+Total for this invoice: $10.14
+
+Payment due in 30 days
+
+Thank you!

@@ -1,0 +1,9 @@
+Made by Tucker Strow of BGHS
+
+The python program should adhere to all criteria of the rubric.
+
+In case it fails to properly use files that you provide, the 
+two example files from the prompt have been included. These have 
+both been tested, and I am including them so that if your files 
+aren't processed properly, I may still be able to earn partial 
+credit.

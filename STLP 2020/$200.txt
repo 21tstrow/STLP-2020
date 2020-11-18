@@ -1,0 +1,11 @@
+$200, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+$200    $200       Steven Jobs   $200
+
+Total for this invoice: $200.0
+
+Payment due in 30 days
+
+Thank you!

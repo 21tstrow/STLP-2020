@@ -1,0 +1,11 @@
+John Doe, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+Job#2   3/26/2020  Steven Jobs   $10.13
+
+Total for this invoice: $10.13
+
+Payment due in 30 days
+
+Thank you!

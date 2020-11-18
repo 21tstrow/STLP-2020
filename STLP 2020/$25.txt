@@ -1,0 +1,11 @@
+$25, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+$25     $25        William Gates $25
+
+Total for this invoice: $25.0
+
+Payment due in 30 days
+
+Thank you!

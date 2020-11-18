@@ -1,0 +1,11 @@
+Jonny Williams, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+Job#4   3/26/2020  Steven Jobs   $10.15
+
+Total for this invoice: $10.15
+
+Payment due in 30 days
+
+Thank you!

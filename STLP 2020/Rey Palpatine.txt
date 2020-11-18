@@ -1,0 +1,12 @@
+Rey Palpatine, here is your invoice.
+
+Itemized charges:
+Job     Date       Employee      Charge
+Job#5   3/30/2020  William Gates $595
+Job#6   3/30/2020  Steven Jobs   $10.16
+
+Total for this invoice: $605.16
+
+Payment due in 30 days
+
+Thank you!
